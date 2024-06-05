@@ -14,7 +14,7 @@ library(ggplot2)
 - [Boxplot](#boxplot)
 
 
-
+![histogram](https://github.com/stella160/boxplot/blob/main/mtcars%20histogram.png)
 
 
 
