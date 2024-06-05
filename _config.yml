@@ -1,0 +1,5 @@
+title: Stellamarries
+show_downloads: True
+remote_theme: pages-themes/minimal@v0.20
+plugins:
+-jekyll-remote-theme
