@@ -1,7 +1,7 @@
 # Boxplot code in R
 ## Installing ggplot2
 
-First install the required packages
+First, install the required packages
 
 ```r
 install.packages("ggplot2")
